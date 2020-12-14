@@ -1,0 +1,38 @@
+digraph "Set4LibInterfaces.cpp"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node1 [label="Set4LibInterfaces.cpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="../inc/Set4LibInterfaces.hh",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$Set4LibInterfaces_8hh.html",tooltip="Definicja klasy Set4LibInterfaces."];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="string",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node2 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node4 [label="map",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node2 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node5 [label="memory",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node2 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node6 [label="LibInterfaces.hh",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$LibInterfaces_8hh.html",tooltip="Definicja klasy LibInterface."];
+  Node6 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node7 [label="iostream",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node6 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node8 [label="cassert",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node6 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node9 [label="dlfcn.h",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node6 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node10 [label="Interp4Command.hh",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$Interp4Command_8hh.html",tooltip="Definicja klasy Interp4Command."];
+  Node10 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node10 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node11 [label="MobileObj.hh",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$MobileObj_8hh.html",tooltip="Zawiera definicję klasy MobileObj."];
+  Node11 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node11 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node12 [label="Vector3D.hh",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$Vector3D_8hh.html",tooltip="Deklaracja instacji szablonu geom::Vector."];
+  Node12 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node13 [label="geomVector.hh",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$geomVector_8hh.html",tooltip="Definicja szablonu wektora N-wymiarowego."];
+  Node13 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node13 -> Node14 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node14 [label="cmath",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node13 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+}

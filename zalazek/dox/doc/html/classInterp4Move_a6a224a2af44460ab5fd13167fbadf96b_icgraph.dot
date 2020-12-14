@@ -1,0 +1,10 @@
+digraph "Interp4Move::CreateCmd"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="RL";
+  Node1 [label="Interp4Move::CreateCmd",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Ta metoda nie musi być zdefiniowna w klasie bazowej."];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="CreateCmd",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$Interp4Move_8cpp.html#ad4f8d6a4dc782b0f28c6d962b417afdb",tooltip="Utworzenie polecenia Move."];
+}

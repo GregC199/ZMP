@@ -1,0 +1,10 @@
+digraph "Interp4Command::GetCmdName"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="RL";
+  Node1 [label="Interp4Command::GetCmdName",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Wyświetla nazwę polecenia."];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="LibInterface::LibInterface",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classLibInterface.html#a37f10af6076739ca910e9acc4e8b48ca",tooltip="Konstruktor obiektu klasy."];
+}

@@ -1,0 +1,505 @@
+warning: doxygen no longer ships with the FreeSans font.
+You may want to clear or change DOT_FONTNAME.
+Otherwise you run the risk that the wrong font is being used for dot generated graphs.
+warning: The selected output language "polish" has not been updated
+since release 1.8.2.  As a result some sentences may appear in English.
+
+/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/inc/Scene.hh:76: warning: The following parameter of Scene::FindMobileObj(string MobileObj_Name, shared_ptr< MobileObj > &PMobObj) is not documented:
+  parameter 'PMobObj'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/LibInterfaces_8hh__dep__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/LibInterfaces_8hh__dep__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Scene_8hh__dep__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Scene_8hh__dep__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Set_8hh__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Set_8hh__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Rotate_acd9e8ff38a42487c17c98d28d8d81532_cgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Rotate_acd9e8ff38a42487c17c98d28d8d81532_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/inherit_graph_5.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/inherit_graph_5.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Vector3D_8hh__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Vector3D_8hh__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classLibInterface_a250061942a1c949d002f49cd62d2d908_cgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classLibInterface_a250061942a1c949d002f49cd62d2d908_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Pause_a53181eb25fc5a9c0104400f561c8ce62_cgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Pause_a53181eb25fc5a9c0104400f561c8ce62_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Rotate_8hh__dep__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Rotate_8hh__dep__incl.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Pause_a2c2cff88acbf4b30147d60f47f181494_icgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Pause_a2c2cff88acbf4b30147d60f47f181494_icgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classMobileObj__coll__graph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classMobileObj__coll__graph.png"'
+sh: 1: sh: 1: dot: not founddot: not found
+
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/inherit_graph_2.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/inherit_graph_2.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Move_8hh__dep__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Move_8hh__dep__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classLibInterface_a576449902177934573ecfff2f220e27a_cgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classLibInterface_a576449902177934573ecfff2f220e27a_cgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Rotate_afe8f0132a28f367334eb9460e3abdd11_cgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Rotate_afe8f0132a28f367334eb9460e3abdd11_cgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Command_a3e15ef01af10fa8961926fd9b0274ab8_icgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Command_a3e15ef01af10fa8961926fd9b0274ab8_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classgeom_1_1Vector_abc4ad52f3fe464ae0aa8c06830e095f0_icgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classgeom_1_1Vector_abc4ad52f3fe464ae0aa8c06830e095f0_icgraph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Pause__coll__graph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Pause__coll__graph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/inherit_graph_3.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/inherit_graph_3.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Pause__inherit__graph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Pause__inherit__graph.png"'
+sh: 1: sh: 1: dot: not founddot: not found
+
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Rotate_8cpp_a161c2be237a6e239fb12733df42be258_icgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Rotate_8cpp_a161c2be237a6e239fb12733df42be258_icgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/dir_b4c3aec6cd8f28418150dce663061cfa_dep.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/dir_b4c3aec6cd8f28418150dce663061cfa_dep.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Move__coll__graph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Move__coll__graph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Set_8cpp_a0ab483787498a2b002838d9426437be6_cgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Set_8cpp_a0ab483787498a2b002838d9426437be6_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Set4LibInterfaces_8hh__dep__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Set4LibInterfaces_8hh__dep__incl.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/graph_legend.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/graph_legend.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Move__inherit__graph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Move__inherit__graph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classgeom_1_1Vector__inherit__graph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classgeom_1_1Vector__inherit__graph.png"'
+sh: 1: sh: 1: dot: not founddot: not found
+
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Command_a08fbbf2a70cdac46930b0eba6f5f361c_icgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Command_a08fbbf2a70cdac46930b0eba6f5f361c_icgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classScene_a02ba1733e20d0edcb22b5c7f678c164f_icgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classScene_a02ba1733e20d0edcb22b5c7f678c164f_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classLibInterface__coll__graph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classLibInterface__coll__graph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Move_a6a224a2af44460ab5fd13167fbadf96b_cgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Move_a6a224a2af44460ab5fd13167fbadf96b_cgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Set_a7e61011caf16bc5bcdae597dc58db324_icgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Set_a7e61011caf16bc5bcdae597dc58db324_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Rotate_8cpp__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Rotate_8cpp__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/geomVector_8hh__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/geomVector_8hh__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Rotate_8cpp_a0ab483787498a2b002838d9426437be6_cgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Rotate_8cpp_a0ab483787498a2b002838d9426437be6_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Move_a66191f9fe67d4b0fd4d35da3b9927518_icgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Move_a66191f9fe67d4b0fd4d35da3b9927518_icgraph.png"'
+sh: 1: sh: 1: dot: not founddot: not found
+
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/main_8cpp_a8f82d78ce6f79fa0fb91cc1de0f83766_icgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/main_8cpp_a8f82d78ce6f79fa0fb91cc1de0f83766_icgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Set_a7e61011caf16bc5bcdae597dc58db324_cgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Set_a7e61011caf16bc5bcdae597dc58db324_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Pause_a83787a2f3cc02c0164597ff506fed3de_icgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Pause_a83787a2f3cc02c0164597ff506fed3de_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/main_8cpp__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/main_8cpp__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Set__inherit__graph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Set__inherit__graph.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Pause_8hh__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Pause_8hh__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/main_8cpp_a32106c2f7abf379899d66cc86710d525_icgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/main_8cpp_a32106c2f7abf379899d66cc86710d525_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Command_8hh__dep__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Command_8hh__dep__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/dir_e5c39bd51a803044aa486678acd3aea1_dep.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/dir_e5c39bd51a803044aa486678acd3aea1_dep.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Set4LibInterfaces_8cpp__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Set4LibInterfaces_8cpp__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Set_a1b3de8fc06124f8a37d188e6486e45d3_icgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Set_a1b3de8fc06124f8a37d188e6486e45d3_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Move_8cpp_ad4f8d6a4dc782b0f28c6d962b417afdb_cgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Move_8cpp_ad4f8d6a4dc782b0f28c6d962b417afdb_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/inherit_graph_6.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/inherit_graph_6.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/dir_68267d1309a1af8e8297ef4c3efbcdba_dep.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/dir_68267d1309a1af8e8297ef4c3efbcdba_dep.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Move_8cpp__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Move_8cpp__incl.png"'
+sh: 1: sh: 1: dot: not founddot: not found
+
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/LibInterfaces_8hh__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/LibInterfaces_8hh__incl.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Pause_8hh__dep__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Pause_8hh__dep__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Scene_8cpp__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Scene_8cpp__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Rotate__coll__graph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Rotate__coll__graph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Move_8cpp_a161c2be237a6e239fb12733df42be258_icgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Move_8cpp_a161c2be237a6e239fb12733df42be258_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/MobileObj_8hh__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/MobileObj_8hh__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Pause_a83787a2f3cc02c0164597ff506fed3de_cgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Pause_a83787a2f3cc02c0164597ff506fed3de_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Move_aae1e3bf7fc34076f19d857a8cd30082e_cgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Move_aae1e3bf7fc34076f19d857a8cd30082e_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/dir_b58d0ee721b2087e51cb0bcc78a10465_dep.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/dir_b58d0ee721b2087e51cb0bcc78a10465_dep.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Move_a83a48fe1db612f65539ed888c434c2b5_cgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Move_a83a48fe1db612f65539ed888c434c2b5_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Rotate_aaf3f5db3c3f9a49ea4f9e5af74f0f240_icgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Rotate_aaf3f5db3c3f9a49ea4f9e5af74f0f240_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Pause_8cpp_a161c2be237a6e239fb12733df42be258_icgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Pause_8cpp_a161c2be237a6e239fb12733df42be258_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Rotate_a72ca6a7b4049030cd17af9cce98b2b5f_cgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Rotate_a72ca6a7b4049030cd17af9cce98b2b5f_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/namespacegeom_ae7cf32f8462c8e56413fe6564b18cebe_icgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/namespacegeom_ae7cf32f8462c8e56413fe6564b18cebe_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Rotate_acd9e8ff38a42487c17c98d28d8d81532_icgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Rotate_acd9e8ff38a42487c17c98d28d8d81532_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Set_8cpp__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Set_8cpp__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/MobileObj_8hh__dep__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/MobileObj_8hh__dep__incl.png"'
+sh: 1: sh: 1: dot: not founddot: not found
+
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Set_a05535040832e686d3519cd6399f80933_cgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Set_a05535040832e686d3519cd6399f80933_cgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Move_aae1e3bf7fc34076f19d857a8cd30082e_icgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Move_aae1e3bf7fc34076f19d857a8cd30082e_icgraph.png"'
+sh: 1: sh: 1: dot: not founddot: not found
+
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classScene__coll__graph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classScene__coll__graph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/main_8cpp_a3c04138a5bfe5d72780bb7e82a18e627_cgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/main_8cpp_a3c04138a5bfe5d72780bb7e82a18e627_cgraph.png"'
+sh: 1: sh: 1: dot: not founddot: not found
+
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Command_a9b1bff7ff363991b35965ae9dfeac648_icgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Command_a9b1bff7ff363991b35965ae9dfeac648_icgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Set_a05535040832e686d3519cd6399f80933_icgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Set_a05535040832e686d3519cd6399f80933_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/main_8cpp_a32106c2f7abf379899d66cc86710d525_cgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/main_8cpp_a32106c2f7abf379899d66cc86710d525_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Move_8hh__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Move_8hh__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Set_8cpp_a161c2be237a6e239fb12733df42be258_icgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Set_8cpp_a161c2be237a6e239fb12733df42be258_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classLibInterface_a37f10af6076739ca910e9acc4e8b48ca_cgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classLibInterface_a37f10af6076739ca910e9acc4e8b48ca_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Command_8hh__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Command_8hh__incl.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/inherit_graph_0.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/inherit_graph_0.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Rotate_8hh__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Rotate_8hh__incl.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Pause_a2c2cff88acbf4b30147d60f47f181494_cgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Pause_a2c2cff88acbf4b30147d60f47f181494_cgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Move_a6a224a2af44460ab5fd13167fbadf96b_icgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Move_a6a224a2af44460ab5fd13167fbadf96b_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Pause_8cpp_a0ab483787498a2b002838d9426437be6_cgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Pause_8cpp_a0ab483787498a2b002838d9426437be6_cgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Pause_8cpp__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Pause_8cpp__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/inherit_graph_1.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/inherit_graph_1.png"'
+sh: 1: sh: 1: dot: not founddot: not found
+
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Rotate__inherit__graph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Rotate__inherit__graph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Set4LibInterfaces_8hh__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Set4LibInterfaces_8hh__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Command__inherit__graph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Command__inherit__graph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/geomVector_8hh__dep__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/geomVector_8hh__dep__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Pause_a8ed3abb0ba307e144e4c07f586f48eb9_icgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Pause_a8ed3abb0ba307e144e4c07f586f48eb9_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Set_8hh__dep__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Set_8hh__dep__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Scene_8hh__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Scene_8hh__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Set__coll__graph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Set__coll__graph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Rotate_a72ca6a7b4049030cd17af9cce98b2b5f_icgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Rotate_a72ca6a7b4049030cd17af9cce98b2b5f_icgraph.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/LibInterfaces_8cpp__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/LibInterfaces_8cpp__incl.png"'
+sh: 1: dot: not found
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Set_a71cdc0ef89ff18a6f2044536a8d7fead_cgraph.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Set_a71cdc0ef89ff18a6f2044536a8d7fead_cgraph.png"'
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Vector3D_8hh__dep__incl.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Vector3D_8hh__dep__incl.png"'
+sh: 1: dot: not found
+error: Problems running dot: exit code=127, command='dot', arguments='"/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/inherit_graph_4.dot" -Tpng -o "/home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/inherit_graph_4.png"'
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/geomVector_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/geomVector_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Command_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Command_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Move_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Move_8cpp_ad4f8d6a4dc782b0f28c6d962b417afdb_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Move_8cpp_a161c2be237a6e239fb12733df42be258_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Move_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Move_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Pause_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Pause_8cpp_a0ab483787498a2b002838d9426437be6_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Pause_8cpp_a161c2be237a6e239fb12733df42be258_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Pause_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Pause_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Rotate_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Rotate_8cpp_a0ab483787498a2b002838d9426437be6_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Rotate_8cpp_a161c2be237a6e239fb12733df42be258_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Rotate_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Rotate_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Set_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Set_8cpp_a0ab483787498a2b002838d9426437be6_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Set_8cpp_a161c2be237a6e239fb12733df42be258_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Set_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Interp4Set_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/LibInterfaces_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/LibInterfaces_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/LibInterfaces_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/main_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/main_8cpp_a32106c2f7abf379899d66cc86710d525_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/main_8cpp_a32106c2f7abf379899d66cc86710d525_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/main_8cpp_a8f82d78ce6f79fa0fb91cc1de0f83766_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/main_8cpp_a3c04138a5bfe5d72780bb7e82a18e627_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/MobileObj_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/MobileObj_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Scene_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Scene_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Scene_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Set4LibInterfaces_8cpp__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Set4LibInterfaces_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Set4LibInterfaces_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Vector3D_8hh__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/Vector3D_8hh__dep__incl.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Command__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Command_a9b1bff7ff363991b35965ae9dfeac648_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Command_a08fbbf2a70cdac46930b0eba6f5f361c_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Command_a3e15ef01af10fa8961926fd9b0274ab8_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Move__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Move__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Move_a66191f9fe67d4b0fd4d35da3b9927518_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Move_a6a224a2af44460ab5fd13167fbadf96b_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Move_a6a224a2af44460ab5fd13167fbadf96b_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Move_aae1e3bf7fc34076f19d857a8cd30082e_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Move_aae1e3bf7fc34076f19d857a8cd30082e_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Move_a83a48fe1db612f65539ed888c434c2b5_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Pause__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Pause__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Pause_a8ed3abb0ba307e144e4c07f586f48eb9_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Pause_a83787a2f3cc02c0164597ff506fed3de_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Pause_a83787a2f3cc02c0164597ff506fed3de_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Pause_a2c2cff88acbf4b30147d60f47f181494_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Pause_a2c2cff88acbf4b30147d60f47f181494_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Pause_a53181eb25fc5a9c0104400f561c8ce62_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Rotate__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Rotate__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Rotate_aaf3f5db3c3f9a49ea4f9e5af74f0f240_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Rotate_acd9e8ff38a42487c17c98d28d8d81532_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Rotate_acd9e8ff38a42487c17c98d28d8d81532_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Rotate_a72ca6a7b4049030cd17af9cce98b2b5f_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Rotate_a72ca6a7b4049030cd17af9cce98b2b5f_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Rotate_afe8f0132a28f367334eb9460e3abdd11_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Set__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Set__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Set_a1b3de8fc06124f8a37d188e6486e45d3_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Set_a05535040832e686d3519cd6399f80933_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Set_a05535040832e686d3519cd6399f80933_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Set_a7e61011caf16bc5bcdae597dc58db324_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Set_a7e61011caf16bc5bcdae597dc58db324_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classInterp4Set_a71cdc0ef89ff18a6f2044536a8d7fead_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classLibInterface__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classLibInterface_a37f10af6076739ca910e9acc4e8b48ca_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classLibInterface_a250061942a1c949d002f49cd62d2d908_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classLibInterface_a576449902177934573ecfff2f220e27a_cgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classMobileObj__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classScene__coll__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classScene_a02ba1733e20d0edcb22b5c7f678c164f_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/namespacegeom_ae7cf32f8462c8e56413fe6564b18cebe_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classgeom_1_1Vector__inherit__graph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/classgeom_1_1Vector_abc4ad52f3fe464ae0aa8c06830e095f0_icgraph.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/dir_b58d0ee721b2087e51cb0bcc78a10465_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/dir_b4c3aec6cd8f28418150dce663061cfa_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/dir_68267d1309a1af8e8297ef4c3efbcdba_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/dir_e5c39bd51a803044aa486678acd3aea1_dep.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/inherit_graph_0.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/inherit_graph_1.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/inherit_graph_2.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/inherit_graph_3.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/inherit_graph_4.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/inherit_graph_5.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.
+error: problems opening map file /home/greg/Zaawansowane_Metody_Programowania/Z1-1/zalazek/dox/doc/html/inherit_graph_6.map for inclusion in the docs!
+If you installed Graphviz/dot after a previous failing run, 
+try deleting the output directory and rerun doxygen.

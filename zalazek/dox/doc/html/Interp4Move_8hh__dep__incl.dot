@@ -1,0 +1,9 @@
+digraph "Interp4Move.hh"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  Node1 [label="Interp4Move.hh",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Definicja klasy Interp4Move."];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="Interp4Move.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$Interp4Move_8cpp.html",tooltip=" "];
+}

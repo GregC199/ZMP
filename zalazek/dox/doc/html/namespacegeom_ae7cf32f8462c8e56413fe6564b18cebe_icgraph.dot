@@ -1,0 +1,10 @@
+digraph "geom::Sgn"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="RL";
+  Node1 [label="geom::Sgn",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Sprawdza znak wartości uwzględniając błąd obliczeń."];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="geom::Vector\< double,\l 3 \>::operator==",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classgeom_1_1Vector.html#af40279932a4f4081f432c7e9866f6279",tooltip="Porównanie dwóch wektorów."];
+}

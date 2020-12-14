@@ -1,0 +1,143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.17"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Interpreter: Plik źródłowy Scene.hh</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="navtree.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="resize.js"></script>
+<script type="text/javascript" src="navtreedata.js"></script>
+<script type="text/javascript" src="navtree.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">Interpreter
+   &#160;<span id="projectnumber">0.1</span>
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Wygenerowano przez Doxygen 1.8.17 -->
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:cf05388f2679ee054f2beb29a391d25f4e673ac3&amp;dn=gpl-2.0.txt GPL-v2 */
+$(function() {
+  initMenu('',false,false,'search.php','Szukaj');
+});
+/* @license-end */</script>
+<div id="main-nav"></div>
+</div><!-- top -->
+<div id="side-nav" class="ui-resizable side-nav-resizable">
+  <div id="nav-tree">
+    <div id="nav-tree-contents">
+      <div id="nav-sync" class="sync"></div>
+    </div>
+  </div>
+  <div id="splitbar" style="-moz-user-select:none;" 
+       class="ui-resizable-handle">
+  </div>
+</div>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:cf05388f2679ee054f2beb29a391d25f4e673ac3&amp;dn=gpl-2.0.txt GPL-v2 */
+$(document).ready(function(){initNavTree('Scene_8hh_source.html',''); initResizable(); });
+/* @license-end */
+</script>
+<div id="doc-content">
+<div class="header">
+  <div class="headertitle">
+<div class="title">Scene.hh</div>  </div>
+</div><!--header-->
+<div class="contents">
+<a href="Scene_8hh.html">Idź do dokumentacji tego pliku.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="preprocessor">#ifndef SCENE_HH</span></div>
+<div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="preprocessor">#define SCENE_HH</span></div>
+<div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160; </div>
+<div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="MobileObj_8hh.html">MobileObj.hh</a>&quot;</span></div>
+<div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="preprocessor">#include &lt;map&gt;</span></div>
+<div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="preprocessor">#include &lt;iostream&gt;</span></div>
+<div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;<span class="preprocessor">#include &lt;memory&gt;</span></div>
+<div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;<span class="preprocessor">#include &lt;cassert&gt;</span></div>
+<div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160; </div>
+<div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;<span class="keyword">using</span> std::map;</div>
+<div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;<span class="keyword">using</span> std::string;</div>
+<div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;<span class="keyword">using</span> std::cout;</div>
+<div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;<span class="keyword">using</span> std::endl;</div>
+<div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;<span class="keyword">using</span> std::pair;</div>
+<div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;<span class="keyword">using</span> std::shared_ptr;</div>
+<div class="line"><a name="l00028"></a><span class="lineno"><a class="line" href="Scene_8hh.html#a6da0caef97aef714d04b4307ac46ae94">   28</a></span>&#160;<span class="keyword">typedef</span> map&lt;string, shared_ptr&lt;MobileObj&gt;&gt; <a class="code" href="Scene_8hh.html#a6da0caef97aef714d04b4307ac46ae94">MobObj_Set</a>;</div>
+<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160; </div>
+<div class="line"><a name="l00035"></a><span class="lineno"><a class="line" href="classScene.html">   35</a></span>&#160;<span class="keyword">class </span><a class="code" href="classScene.html">Scene</a>{</div>
+<div class="line"><a name="l00039"></a><span class="lineno"><a class="line" href="classScene.html#a5ba02867bd0cbe0d2ed6385e32b49564">   39</a></span>&#160;        <span class="keywordtype">string</span> <a class="code" href="classScene.html#a5ba02867bd0cbe0d2ed6385e32b49564">_Name</a>{<span class="stringliteral">&quot;BrakNazwy&quot;</span>};</div>
+<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160; </div>
+<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;<span class="keyword">public</span>:</div>
+<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160; </div>
+<div class="line"><a name="l00047"></a><span class="lineno"><a class="line" href="classScene.html#ab64f7b14fda1c9703f820253487c9a30">   47</a></span>&#160;        <a class="code" href="Scene_8hh.html#a6da0caef97aef714d04b4307ac46ae94">MobObj_Set</a> <a class="code" href="classScene.html#ab64f7b14fda1c9703f820253487c9a30">_Set_MobileObjs</a>;</div>
+<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160; </div>
+<div class="line"><a name="l00053"></a><span class="lineno"><a class="line" href="classScene.html#ad10176d75a9cc0da56626f682d083507">   53</a></span>&#160;        <a class="code" href="classScene.html#ad10176d75a9cc0da56626f682d083507">Scene</a>(){};</div>
+<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160; </div>
+<div class="line"><a name="l00059"></a><span class="lineno"><a class="line" href="classScene.html#acfc96c1a0e675774b23e3e72fe8819a8">   59</a></span>&#160;        <a class="code" href="classScene.html#acfc96c1a0e675774b23e3e72fe8819a8">Scene</a>(<span class="keywordtype">string</span> Name){</div>
+<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;                <a class="code" href="classScene.html#a5ba02867bd0cbe0d2ed6385e32b49564">_Name</a> = Name;</div>
+<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;        }</div>
+<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160; </div>
+<div class="line"><a name="l00067"></a><span class="lineno"><a class="line" href="classScene.html#ab91bf039ea5ae05b17fdd5d318185535">   67</a></span>&#160;        <span class="keyword">const</span> <span class="keywordtype">string</span> <a class="code" href="classScene.html#ab91bf039ea5ae05b17fdd5d318185535">GetName</a>(){</div>
+<div class="line"><a name="l00068"></a><span class="lineno">   68</span>&#160;                <span class="keywordflow">return</span> <a class="code" href="classScene.html#a5ba02867bd0cbe0d2ed6385e32b49564">_Name</a>;</div>
+<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;        }</div>
+<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160; </div>
+<div class="line"><a name="l00076"></a><span class="lineno"><a class="line" href="classScene.html#aeec2b117a58674206f849d4cefe04384">   76</a></span>&#160;        <span class="keywordtype">bool</span> <a class="code" href="classScene.html#aeec2b117a58674206f849d4cefe04384">FindMobileObj</a>(<span class="keywordtype">string</span> MobileObj_Name, shared_ptr&lt;MobileObj&gt; &amp;PMobObj){</div>
+<div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;                <span class="keyword">auto</span> it = <a class="code" href="classScene.html#ab64f7b14fda1c9703f820253487c9a30">_Set_MobileObjs</a>.find(MobileObj_Name);</div>
+<div class="line"><a name="l00078"></a><span class="lineno">   78</span>&#160; </div>
+<div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;                <span class="keywordflow">if</span>(it != <a class="code" href="classScene.html#ab64f7b14fda1c9703f820253487c9a30">_Set_MobileObjs</a>.end()){</div>
+<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;                        PMobObj = it-&gt;second;</div>
+<div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;                        <span class="keywordflow">return</span> <span class="keyword">true</span>;</div>
+<div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160; </div>
+<div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;                }</div>
+<div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;                <span class="keywordflow">else</span>{</div>
+<div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;                        <span class="keywordflow">return</span> <span class="keyword">false</span>;</div>
+<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;                }</div>
+<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;        }</div>
+<div class="line"><a name="l00088"></a><span class="lineno">   88</span>&#160; </div>
+<div class="line"><a name="l00093"></a><span class="lineno"><a class="line" href="classScene.html#a02ba1733e20d0edcb22b5c7f678c164f">   93</a></span>&#160;        <span class="keywordtype">void</span> <a class="code" href="classScene.html#a02ba1733e20d0edcb22b5c7f678c164f">AddMobileObj</a>(std::shared_ptr&lt;MobileObj&gt; &amp;PMobileObj){</div>
+<div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;                <a class="code" href="classScene.html#ab64f7b14fda1c9703f820253487c9a30">_Set_MobileObjs</a>.insert(pair&lt;<span class="keywordtype">string</span>, shared_ptr&lt;MobileObj&gt;&gt;(PMobileObj-&gt;GetName(), PMobileObj));</div>
+<div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160; </div>
+<div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;                cout &lt;&lt; <span class="stringliteral">&quot;Dodano obiekt: &quot;</span> &lt;&lt; PMobileObj-&gt;GetName() &lt;&lt; <span class="stringliteral">&quot;\n Do sceny: &quot;</span> &lt;&lt; <a class="code" href="classScene.html#a5ba02867bd0cbe0d2ed6385e32b49564">_Name</a>  &lt;&lt; endl;</div>
+<div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;        }</div>
+<div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;};</div>
+<div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160; </div>
+<div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;<span class="preprocessor">#endif</span></div>
+</div><!-- fragment --></div><!-- contents -->
+</div><!-- doc-content -->
+<div class="ttc" id="aclassScene_html"><div class="ttname"><a href="classScene.html">Scene</a></div><div class="ttdoc">Modeluje scene.</div><div class="ttdef"><b>Definition:</b> <a href="Scene_8hh_source.html#l00035">Scene.hh:35</a></div></div>
+<div class="ttc" id="aclassScene_html_ad10176d75a9cc0da56626f682d083507"><div class="ttname"><a href="classScene.html#ad10176d75a9cc0da56626f682d083507">Scene::Scene</a></div><div class="ttdeci">Scene()</div><div class="ttdoc">Domyslny konstruktor.</div><div class="ttdef"><b>Definition:</b> <a href="Scene_8hh_source.html#l00053">Scene.hh:53</a></div></div>
+<div class="ttc" id="aclassScene_html_ab91bf039ea5ae05b17fdd5d318185535"><div class="ttname"><a href="classScene.html#ab91bf039ea5ae05b17fdd5d318185535">Scene::GetName</a></div><div class="ttdeci">const string GetName()</div><div class="ttdoc">Metoda zwracajaca nazwe sceny.</div><div class="ttdef"><b>Definition:</b> <a href="Scene_8hh_source.html#l00067">Scene.hh:67</a></div></div>
+<div class="ttc" id="aclassScene_html_aeec2b117a58674206f849d4cefe04384"><div class="ttname"><a href="classScene.html#aeec2b117a58674206f849d4cefe04384">Scene::FindMobileObj</a></div><div class="ttdeci">bool FindMobileObj(string MobileObj_Name, shared_ptr&lt; MobileObj &gt; &amp;PMobObj)</div><div class="ttdoc">Metoda wyszukujaca obiekt mobilny po kluczu.</div><div class="ttdef"><b>Definition:</b> <a href="Scene_8hh_source.html#l00076">Scene.hh:76</a></div></div>
+<div class="ttc" id="aclassScene_html_a5ba02867bd0cbe0d2ed6385e32b49564"><div class="ttname"><a href="classScene.html#a5ba02867bd0cbe0d2ed6385e32b49564">Scene::_Name</a></div><div class="ttdeci">string _Name</div><div class="ttdoc">Nazwa sceny.</div><div class="ttdef"><b>Definition:</b> <a href="Scene_8hh_source.html#l00039">Scene.hh:39</a></div></div>
+<div class="ttc" id="aclassScene_html_a02ba1733e20d0edcb22b5c7f678c164f"><div class="ttname"><a href="classScene.html#a02ba1733e20d0edcb22b5c7f678c164f">Scene::AddMobileObj</a></div><div class="ttdeci">void AddMobileObj(std::shared_ptr&lt; MobileObj &gt; &amp;PMobileObj)</div><div class="ttdoc">Metoda umozliwiajaca dodanie obiektu do zestawu mobilnych obiektow.</div><div class="ttdef"><b>Definition:</b> <a href="Scene_8hh_source.html#l00093">Scene.hh:93</a></div></div>
+<div class="ttc" id="aclassScene_html_acfc96c1a0e675774b23e3e72fe8819a8"><div class="ttname"><a href="classScene.html#acfc96c1a0e675774b23e3e72fe8819a8">Scene::Scene</a></div><div class="ttdeci">Scene(string Name)</div><div class="ttdoc">Konstruktor sceny z nadaniem nazwy.</div><div class="ttdef"><b>Definition:</b> <a href="Scene_8hh_source.html#l00059">Scene.hh:59</a></div></div>
+<div class="ttc" id="aMobileObj_8hh_html"><div class="ttname"><a href="MobileObj_8hh.html">MobileObj.hh</a></div><div class="ttdoc">Zawiera definicję klasy MobileObj.</div></div>
+<div class="ttc" id="aclassScene_html_ab64f7b14fda1c9703f820253487c9a30"><div class="ttname"><a href="classScene.html#ab64f7b14fda1c9703f820253487c9a30">Scene::_Set_MobileObjs</a></div><div class="ttdeci">MobObj_Set _Set_MobileObjs</div><div class="ttdoc">Mapa przechowujaca utworzone obiekty.</div><div class="ttdef"><b>Definition:</b> <a href="Scene_8hh_source.html#l00047">Scene.hh:47</a></div></div>
+<div class="ttc" id="aScene_8hh_html_a6da0caef97aef714d04b4307ac46ae94"><div class="ttname"><a href="Scene_8hh.html#a6da0caef97aef714d04b4307ac46ae94">MobObj_Set</a></div><div class="ttdeci">map&lt; string, shared_ptr&lt; MobileObj &gt; &gt; MobObj_Set</div><div class="ttdoc">Typ zestawu danych w postaci std::map&lt;Key_Type,Mapped_Type&gt;</div><div class="ttdef"><b>Definition:</b> <a href="Scene_8hh_source.html#l00028">Scene.hh:28</a></div></div>
+<!-- start footer part -->
+<div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
+  <ul>
+    <li class="navelem"><a class="el" href="dir_bfccd401955b95cf8c75461437045ac0.html">inc</a></li><li class="navelem"><a class="el" href="Scene_8hh.html">Scene.hh</a></li>
+    <li class="footer">Wygenerowano Pn, 30 lis 2020 13:30:08 dla Interpreter programem
+    <a href="http://www.doxygen.org/index.html">
+    <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
+  </ul>
+</div>
+</body>
+</html>

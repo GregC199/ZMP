@@ -1,0 +1,12 @@
+digraph "GetCmdName"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="FreeSans",fontsize="10",labelfontname="FreeSans",labelfontsize="10"];
+  node [fontname="FreeSans",fontsize="10",shape=record];
+  rankdir="RL";
+  Node1 [label="GetCmdName",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node2 [label="Interp4Rotate::GetCmdName",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classInterp4Rotate.html#a72ca6a7b4049030cd17af9cce98b2b5f",tooltip="Wyświetla nazwę polecenia."];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="FreeSans"];
+  Node3 [label="Interp4Rotate::PrintCmd",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$classInterp4Rotate.html#afe8f0132a28f367334eb9460e3abdd11",tooltip="Wyświetla postać bieżącego polecenia (nazwę oraz wartości parametrów)"];
+}
